@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """Inherits BaseGeometry class documented now"""
 
@@ -15,4 +14,3 @@ class Rectangle(BaseGeometry):
         self.__width = width
         self.integer_validator("height", height)
         self.__height = 
-
